@@ -3,4 +3,8 @@ site_name: Portfolio
 site_url: https://wankhedeamey.github.io
 theme:
   name: material
+features:
+  - navigation.top
+extra_css:
+  - stylesheets/extra.css
 
