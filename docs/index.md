@@ -24,7 +24,7 @@ MSc Information and Communications Engineering (Embedded Systems), TU Darmstadt
        style="width: 230px; border-radius: 12px; flex-shrink: 0;" />
 
   <div>
-    <h2>About Me</h2>
+    <h2><b>About Me</b></h2>
     <p>
 I work on modern C++, embedded systems, and hardware-near debugging on production firmware.
 I’m mainly interested in automotive, robotics, and high-performance / system-level software.
