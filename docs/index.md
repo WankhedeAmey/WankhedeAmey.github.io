@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# Hi, I am Amey
+# Hi, I am Amey 👋
 
 **Embedded Systems & C/C++ Development**  
 Werkstudent at IBS Ingenieurbüro GmbH, Darmstadt  
