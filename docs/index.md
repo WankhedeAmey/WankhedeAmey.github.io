@@ -10,7 +10,8 @@ hide:
 **Embedded Systems & C/C++ Development**  
 Werkstudent at IBS Ingenieurbüro GmbH, Darmstadt  
 MSc Information and Communications Engineering (Embedded Systems), TU Darmstadt
-
+<br>
+Outside work, I enjoy hiking, staying fit, and electronic music.
 <div style="
   display: flex;
   align-items: center;
