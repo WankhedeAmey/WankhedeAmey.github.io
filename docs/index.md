@@ -71,6 +71,6 @@ I’m mainly interested in automotive, robotics, and high-performance / system-l
 
 ## **Contact**
 
-- **GitHub:** https://github.com/WankhedeAmey  
-- **LinkedIn:** https://www.linkedin.com/in/amey-wankhede/  
-- **Email:** wankhede.ameyb@gmail.com  
+- **GitHub:** [github.com/WankhedeAmey](https://github.com/WankhedeAmey)  
+- **LinkedIn:** [linkedin.com/in/amey-wankhede](https://www.linkedin.com/in/amey-wankhede/)  
+- **Email:** [wankhede.ameyb@gmail.com](mailto:wankhede.ameyb@gmail.com) 
