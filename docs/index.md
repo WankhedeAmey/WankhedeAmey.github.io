@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# Amey Wankhede
+# Hi, I am Amey
 
 **Embedded Systems & C/C++ Development**  
 Werkstudent at IBS Ingenieurbüro GmbH, Darmstadt  

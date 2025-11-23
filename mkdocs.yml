@@ -1,5 +1,5 @@
 yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Amey Wankhede
+site_name: Portfolio
 site_url: https://wankhedeamey.github.io
 theme:
   name: material
