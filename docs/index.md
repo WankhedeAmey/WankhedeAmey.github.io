@@ -5,11 +5,11 @@ hide:
   - toc
 ---
 
-# **Amey Wankhede**
+# Amey Wankhede
 
 **Embedded Systems & C/C++ Development**  
 Werkstudent at IBS Ingenieurbüro GmbH, Darmstadt  
-MSc Information & Communications Engineering (Embedded Systems), TU Darmstadt
+MSc Information and Communications Engineering (Embedded Systems), TU Darmstadt
 
 <div style="
   display: flex;
@@ -26,9 +26,8 @@ MSc Information & Communications Engineering (Embedded Systems), TU Darmstadt
   <div>
     <h2>About Me</h2>
     <p>
-      I work on modern C++, embedded systems, hardware-near debugging, and production firmware.
-      Strong interest in automotive, robotics, high-performance systems, and system-level engineering.
-      Direct, structured, and execution-focused.
+I work on modern C++, embedded systems, and hardware-near debugging on production firmware.
+I’m mainly interested in automotive, robotics, and high-performance / system-level software.
     </p>
   </div>
 
@@ -52,21 +51,20 @@ MSc Information & Communications Engineering (Embedded Systems), TU Darmstadt
 
 ## **Skills**
 
-- **Programming Languages:** C, C++, Python  
-- **Tools & Technologies:** GDB, Linux, CLI tooling, Git, Jira, Jenkins, Doxygen, static analysis / linting, Confluence  
-- **Software Engineering:** OOP, unit testing, memory management, TCP/IP, debugging, data structures and algorithms  
-- **Soft Skills:** Strong work ethic, independent, quick learner, problem solving, detail-oriented, team collaboration  
+- **Programming:** C, C++, Python  
+- **Tools:** GDB, Linux, CLI tooling, Git, Jira, Jenkins, Doxygen, static analysis / linting, Confluence  
+- **Software engineering:** OOP, unit testing, memory management, TCP/IP, debugging, data structures and algorithms  
+- **Soft skills:** Independent, reliable, quick to ramp up, good at structured debugging and collaboration  
 
 ---
 
 ## **Projects**
 
-- EEPROM/I2C flashing utility (IBS)  
-- Firmware tools and client-facing development (IBS)  
-- Data-plane caching implementation (VMware)  
-- Fullstack dashboard for a university project (TU Darmstadt)  
-- Motion-based camera tracking (Embedded Hands-On Lab, TU Darmstadt)  
-- Embedded systems coursework at TU Darmstadt  
+- EEPROM/I2C flashing utility (IBS) – CLI tool for programming devices
+- Firmware tools and client-facing development (IBS)
+- Data-plane caching implementation (VMware)
+- Fullstack dashboard for a university project (TU Darmstadt)
+- Motion-based camera tracking (Embedded Hands-On Lab, TU Darmstadt) 
 
 ---
 
