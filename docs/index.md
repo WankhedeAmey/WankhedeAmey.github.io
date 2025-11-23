@@ -10,8 +10,7 @@ hide:
 **Embedded Systems & C/C++ Development**  
 Werkstudent at IBS Ingenieurbüro GmbH, Darmstadt  
 MSc Information and Communications Engineering (Embedded Systems), TU Darmstadt
-<br>
-Outside work, I enjoy hiking, staying fit, and electronic music.
+
 <div style="
   display: flex;
   align-items: center;
@@ -29,6 +28,8 @@ Outside work, I enjoy hiking, staying fit, and electronic music.
     <p>
 I work on modern C++, embedded systems, and hardware-near debugging on production firmware.
 I’m mainly interested in automotive, robotics, and high-performance / system-level software.
+<br>
+Outside work, I enjoy hiking, staying fit, and electronic music.
     </p>
   </div>
 
